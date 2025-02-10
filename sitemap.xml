@@ -27,17 +27,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/physical-exercise/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/wellness-practices/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/blog/
+            http://localhost:8000/birthday-celebration/
         </loc>
     </url>
     <url>
@@ -47,12 +37,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/wellness-practices/
+            http://localhost:8000/celebrate-your-special-day-with-these-inspiring-posts/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/physical-exercise/
+            http://localhost:8000/category/birthday-buddies/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/birthday-celebration/
         </loc>
     </url>
     <url>
